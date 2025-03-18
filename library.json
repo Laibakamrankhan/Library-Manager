@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "publication_year": 2018,
+        "genre": "Self-Help",
+        "read_status": true,
+        "added_date": "2025-03-18 12:00:00"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "publication_year": 1988,
+        "genre": "Fiction",
+        "read_status": false,
+        "added_date": "2025-03-18 12:05:00"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "publication_year": 1997,
+        "genre": "Fantasy",
+        "read_status": true,
+        "added_date": "2025-03-18 10:00:00"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "publication_year": 1937,
+        "genre": "Fantasy",
+        "read_status": false,
+        "added_date": "2025-03-18 10:15:00"
+    }
+]
